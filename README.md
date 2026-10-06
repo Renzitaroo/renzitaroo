@@ -22,7 +22,6 @@
 
 ### 🐉 About Me
 
-- 🔭 **Currently working on:** [smart-swap-token](https://github.com/Renzitaroo/smart-swap-token) (DEX AMM $x \times y = k$ & Smart Swap Token on Sepolia Testnet).
 - 🛠️ **Exploring:** Fullstack Web Architecture, Smart Contract Security, & Modern Frontend Systems.
 - 💡 **Philosophy:** Write clean, minimal, and battle-tested code.
 - 💬 **Ask me about:** TypeScript, React/Next.js, EVM & DEX logic.
