@@ -1,13 +1,44 @@
+<div align="center">
+
+<!-- Typing Header SVG -->
+<a href="https://github.com/Renzitaroo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Renzie+%F0%9F%91%8B;Fullstack+%26+Web3+Developer;Building+Decentralized+Apps+%26+Tools;Turning+ideas+into+clean+code" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <b>Passionate Software Engineer focusing on Fullstack Development & Web3 / Smart Contracts.</b>
+</p>
+
+<!-- Social / Contact Badges -->
+<p align="center">
+  <a href="https://github.com/Renzitaroo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/grnzie_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:gunturrizqi444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+</div>
+
+### 🐉 About Me
+
+- 🔭 **Currently working on:** [smart-swap-token](https://github.com/Renzitaroo/smart-swap-token) (DEX AMM $x \times y = k$ & Smart Swap Token on Sepolia Testnet).
+- 🛠️ **Exploring:** Fullstack Web Architecture, Smart Contract Security, & Modern Frontend Systems.
+- 💡 **Philosophy:** Write clean, minimal, and battle-tested code.
+- 💬 **Ask me about:** TypeScript, React/Next.js, EVM & DEX logic.
+- 📬 **Email:** [gunturrizqi444@gmail.com](mailto:gunturrizqi444@gmail.com)
+- 📸 **Instagram:** [@grnzie_](https://www.instagram.com/grnzie_/?hl=en)
+
+---
+
 ### 💻 Languages & Tools
 
-<!-- Modern Icon Grid (Termasuk Figma) -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,solidity,postgres,mysql,docker,git,figma&perline=7" alt="Tech Stack Icons" />
   </a>
 </p>
 
-<!-- Tech Badges -->
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -23,3 +54,32 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Achievements & Analytics
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Renzitaroo&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&column=6" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renzitaroo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_color=22c55e&border_radius=12&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renzitaroo&theme=tokyonight&hide_border=false&border_color=22c55e&border_radius=12&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" height="165" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzitaroo&layout=compact&theme=tokyonight&hide_border=false&border_color=22c55e&border_radius=12&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" height="165" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renzitaroo&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=false&border_color=22c55e&title_color=22c55e" width="95%" alt="Activity Graph" />
+</div>
